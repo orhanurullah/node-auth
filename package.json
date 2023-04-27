@@ -1,0 +1,26 @@
+{
+  "name": "node-auth",
+  "version": "1.0.0",
+  "description": "jwt based login, register and verify email with Nodejs for Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orhanurullah/node-auth.git"
+  },
+  "keywords": [
+    "jwt",
+    "authentication",
+    "auth",
+    "register",
+    "verify-email"
+  ],
+  "author": "orhanurullah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orhanurullah/node-auth/issues"
+  },
+  "homepage": "https://github.com/orhanurullah/node-auth#readme"
+}
